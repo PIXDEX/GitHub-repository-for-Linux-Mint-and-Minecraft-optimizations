@@ -1,3 +1,4 @@
+![Basiccheatcode](https://github.com/PIXDEX/GitHub-repository-for-Linux-Mint-and-Minecraft-optimizations/blob/main/Mint%20CC/56%20sin%20t%C3%ADtulo_20251120050841.png)
 ### Basic Cheat code for Linux mint
 
 * **cd:** Muévete por los directorios
